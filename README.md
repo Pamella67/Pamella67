@@ -13,7 +13,7 @@
 -Gaining online certifications to expnd my skill set, learn new languages, and grow my career in tech📈.
 
 ### Lets connect😀🚀
--💼[LinkedIn](www.linkedin.com/in/pamella-mbambela-5052a9263)
+-💼[LinkedIn](www.linkedin.com/in/pamellambambela)
 -📧Email: pmbambela@gmail.com
 
 ⚡ Fun fact: I don't fit in one box- sometimes i'm optimizing formulas or optimizing code, and the next i might be styling your next look🎨🧑‍💻🧪
