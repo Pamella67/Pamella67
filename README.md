@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋Hi! Pamella here, a scientist🥼 turned into a coder👩🏽‍💻 
 
-<!--
-**Pamella67/Pamella67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍🎓I'm a BCom Computer Science and Information Systems student with a background in chemistry, specializing in Formulation Science.
+⚗️Currently developing my coding skills and interested in combining them with the analytical mindset i built through science🚀💯
 
-Here are some ideas to get you started:
+## Tech stack: 
+`C#` `Visual Studio` `GitHub` 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reasearch & Analysis Tools:
+`R` `RCmdr` `Excel`
+
+## Currently working on: 
+-Gaining online certifications to expnd my skill set, learn new languages, and grow my career in tech📈.
+
+## Lets connect😀🚀
+-💼[LinkedIn](www.linkedin.com/in/pamella-mbambela-5052a9263)
+-📧Email: pmbambela@gmail.com
+- ⚡ Fun fact: I don't fit in one box- sometimes i'm optimizing formulas or optimizing code, and the next i might be styling your next look🎨🧑‍💻🧪
+  ## GitHub Stats📊:
+  ![Pamella's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamella67&show_icons=true&theme=tokyonight)
